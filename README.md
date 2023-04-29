@@ -1,5 +1,4 @@
-# Example of Readme.md
-Alexiou Konstantinos - _this is from a current repo of mine , just ignore the rest of the text_
+# expected goals line plot
 Hello , in this repo i plotted an **xgoals difference line plot** for a team in the
 Greek Superleague, using **6-week rolling average** with my data covering three seasons of football.
 I tried to customize the layout to be similar to TheAthletic's xG plots , only difference they are using R and
